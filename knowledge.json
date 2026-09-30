@@ -1,0 +1,105 @@
+[
+  {
+    "subject": "Maths",
+    "topic": "Quadratic equations",
+    "keywords": [
+      "quadratic",
+      "roots",
+      "equation",
+      "discriminant"
+    ],
+    "answer": "A quadratic equation has the form ax² + bx + c = 0, where a ≠ 0. Its roots can be found using x = (-b ± √(b² - 4ac)) / 2a."
+  },
+  {
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "keywords": [
+      "sin",
+      "cos",
+      "tan",
+      "trigonometry",
+      "right triangle"
+    ],
+    "answer": "For a right triangle, sin θ = opposite/hypotenuse, cos θ = adjacent/hypotenuse, and tan θ = opposite/adjacent."
+  },
+  {
+    "subject": "Science",
+    "topic": "Photosynthesis",
+    "keywords": [
+      "photosynthesis",
+      "plants",
+      "glucose",
+      "chlorophyll"
+    ],
+    "answer": "Photosynthesis is the process by which green plants use light energy, carbon dioxide and water to make glucose, releasing oxygen. Chlorophyll absorbs light energy."
+  },
+  {
+    "subject": "Science",
+    "topic": "Electric current",
+    "keywords": [
+      "current",
+      "electricity",
+      "ampere",
+      "charge",
+      "circuit"
+    ],
+    "answer": "Electric current is the rate of flow of electric charge. I = Q/t, and its SI unit is the ampere (A)."
+  },
+  {
+    "subject": "Science",
+    "topic": "Acids and bases",
+    "keywords": [
+      "acid",
+      "base",
+      "ph",
+      "neutral"
+    ],
+    "answer": "Acids generally produce H⁺ ions in aqueous solution, while bases produce OH⁻ ions. A pH below 7 is acidic, 7 is neutral, and above 7 is basic."
+  },
+  {
+    "subject": "Social Science",
+    "topic": "Democracy",
+    "keywords": [
+      "democracy",
+      "government",
+      "elections",
+      "citizens"
+    ],
+    "answer": "Democracy is a form of government in which people choose their representatives, usually through elections, and political power is subject to constitutional rules."
+  },
+  {
+    "subject": "Social Science",
+    "topic": "Federalism",
+    "keywords": [
+      "federalism",
+      "centre",
+      "state",
+      "government",
+      "power"
+    ],
+    "answer": "Federalism divides powers between different levels of government. In India, powers are distributed between the Union and State governments, with local government forming another level."
+  },
+  {
+    "subject": "English",
+    "topic": "Active and passive voice",
+    "keywords": [
+      "active",
+      "passive",
+      "voice",
+      "grammar"
+    ],
+    "answer": "In active voice, the subject performs the action. In passive voice, the receiver of the action becomes the grammatical subject; the verb usually uses a form of 'be' plus a past participle."
+  },
+  {
+    "subject": "English",
+    "topic": "Reported speech",
+    "keywords": [
+      "reported",
+      "speech",
+      "direct",
+      "indirect",
+      "narration"
+    ],
+    "answer": "Reported speech conveys what someone said without quoting the exact words. Pronouns, tense, time expressions and sometimes question structure may change."
+  }
+]
